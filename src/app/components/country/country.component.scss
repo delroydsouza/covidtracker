@@ -1,0 +1,11 @@
+.col-table {
+  display: block;
+  height: 23rem;
+  overflow-y: scroll;
+}
+.table-head {
+  position: sticky;
+  top: 0;
+  background-color: black;
+  color: white;
+}
